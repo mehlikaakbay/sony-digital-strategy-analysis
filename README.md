@@ -14,8 +14,8 @@ We developed a comprehensive digital strategy and transformation roadmap for **S
 
 ## Preview
 
-![BCG Matrix](assets/screenshots/bcg-matrix.png)
-![PESTEL](assets/screenshots/pestel-analysis.png)
+![BCG Matrix](assets/screenshots:bcg-matrix.png)
+![PESTEL]( assets/screenshots:/pestel-analysis.png)
 ![Gantt Chart](assets/screenshots/gannt-chart.png)
 
 ## Team Roles
