@@ -1,5 +1,3 @@
-# sony-digital-strategy-analysis
-A strategic analysis and digital transformation proposal for Sony Pictures &amp; Sony Music. 
 # Sony Pictures & Sony Music – Digital Strategy Analysis
 
 This is the final group project submitted for the **Digital Media & Communication** course at University of Europe, Fall/Spring 2025.
