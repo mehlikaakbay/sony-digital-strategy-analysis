@@ -12,11 +12,16 @@ We developed a comprehensive digital strategy and transformation roadmap for **S
 - Platform Implementation Timeline & Budget
 - Monitoring & Evaluation Framework
 
-## Preview
+## Project Preview
 
+### BCG Matrix
 ![BCG Matrix](assets/screenshots/bcg-matrix.png)
-![PESTEL]( assets/screenshots:/pestel-analysis.png)
-![Gantt Chart](assets/screenshots/gannt-chart.png)
+
+### PESTEL Analysis
+![PESTEL](assets/screenshots/pestel-analysis.png)
+
+### Gantt Chart (Implementation Timeline)
+![Gantt Chart](assets/screenshots/gantt-chart.png)
 
 ## Team Roles
 
