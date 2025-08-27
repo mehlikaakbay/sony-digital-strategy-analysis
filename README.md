@@ -21,7 +21,7 @@ We developed a comprehensive digital strategy and transformation roadmap for **S
 ![PESTEL](assets/screenshots/pestel-analysis.png)
 
 ### Gantt Chart (Implementation Timeline)
-![Gantt Chart](assets/screenshots/gantt-chart.png)
+![Gantt Chart](assets/screenshots/gannt-chart.png)
 
 ## Team Roles
 
